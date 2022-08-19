@@ -2,10 +2,6 @@
 
 It's true, we're building on GitHub. 
 
-We've been doing this since Bakkal Corporation was incorporated on February 22nd, 2021.
-
 Among the languages we code in are PHP, Java, Swift, and JavaScript.
 
 Please visit [Getbakkal.com](https://getbakkal.com) Careers page if you are interested in Bakkal's job opportunities.
-
-
